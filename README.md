@@ -1,4 +1,3 @@
-# weather-channel-pomodoro
 # > PROJECT_LOAD: WEATHER_CHANNEL_5.EXE 🌦️
 
 ### 📋 Overview
